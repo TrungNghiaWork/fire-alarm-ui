@@ -1,0 +1,98 @@
+{
+  "app": {
+    "title": "Fire Emergency and Security"
+  },
+  "common": {
+    "loading": "Loading...",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "close": "Close",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "back": "Back",
+    "next": "Next",
+    "submit": "Submit",
+    "or": "Or"
+  },
+  "auth": {
+    "login": {
+      "title": "Sign In",
+      "username": "Username",
+      "usernamePlaceholder": "Enter email or phone number",
+      "password": "Password",
+      "passwordPlaceholder": "Enter password",
+      "remember": "Remember login information",
+      "forgot": "Forgot password?",
+      "submit": "Sign In",
+      "or": "Or",
+      "register": "Sign Up",
+      "error": {
+        "username_required": "Please enter Username",
+        "password_required": "Please enter Password",
+        "invalid_credentials": "Invalid username or password"
+      }
+    },
+    "register": {
+      "title": "Sign Up",
+      "subtitle": "Create a new account to use the system",
+      "email": "Email",
+      "emailPlaceholder": "Enter email address",
+      "phone": "Phone Number",
+      "phonePlaceholder": "Enter phone number",
+      "password": "Password",
+      "passwordPlaceholder": "Enter password",
+      "confirm": "Confirm Password",
+      "confirmPlaceholder": "Re-enter password",
+      "agree": "I agree to the Terms & Conditions",
+      "next": "Sign Up",
+      "cancel": "Cancel Registration",
+      "infoTitle": "Account Information",
+      "fullName": "Full Name",
+      "fullNamePlaceholder": "Enter full name",
+      "orgName": "Organization Name",
+      "orgNamePlaceholder": "Enter organization name",
+      "orgAddress": "Organization Address",
+      "orgAddressPlaceholder": "Enter organization address",
+      "avatar": "Avatar",
+      "avatarHint": "Select JPG or PNG file, max 2MB",
+      "back": "Back",
+      "confirmBtn": "Confirm",
+      "successTitle": "Registration Successful",
+      "successDesc": "Go back to {{login}} page to sign in. Auto redirect in {{sec}} seconds.",
+      "loginLink": "Sign In",
+      "error": {
+        "email_required": "Please enter Email",
+        "phone_required": "Please enter Phone Number",
+        "password_required": "Please enter Password",
+        "confirm_required": "Please re-enter Password",
+        "password_mismatch": "Password confirmation does not match",
+        "agree_required": "Please agree to the Terms & Conditions",
+        "fullName_required": "Please enter Full Name",
+        "orgName_required": "Please enter Organization Name",
+        "orgAddress_required": "Please enter Organization Address",
+        "avatar_size": "File size must not exceed 2MB",
+        "avatar_type": "Only JPG or PNG files are accepted"
+      }
+    },
+    "forgot": {
+      "title": "Forgot Password",
+      "desc": "Enter your registered email and phone number to receive reset code/link",
+      "email": "Email",
+      "emailPlaceholder": "Enter email address",
+      "phone": "Phone Number",
+      "phonePlaceholder": "Enter phone number",
+      "submit": "Send",
+      "back": "Back to Sign In page",
+      "success": "Password reset request has been sent. Please check your email/SMS.",
+      "error": {
+        "email_required": "Please enter Email",
+        "phone_required": "Please enter Phone Number"
+      }
+    }
+  },
+  "home": {
+    "title": "Home",
+    "welcome": "Welcome to Fire Emergency and Security System"
+  }
+}

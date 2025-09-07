@@ -1,0 +1,98 @@
+{
+  "app": {
+    "title": "Ứng cứu cháy và an ninh"
+  },
+  "common": {
+    "loading": "Đang tải...",
+    "cancel": "Hủy",
+    "confirm": "Xác nhận",
+    "close": "Đóng",
+    "save": "Lưu",
+    "edit": "Chỉnh sửa",
+    "delete": "Xóa",
+    "back": "Quay lại",
+    "next": "Tiếp theo",
+    "submit": "Gửi",
+    "or": "Hoặc"
+  },
+  "auth": {
+    "login": {
+      "title": "Đăng nhập",
+      "username": "Tên đăng nhập",
+      "usernamePlaceholder": "Nhập email hoặc số điện thoại",
+      "password": "Mật khẩu",
+      "passwordPlaceholder": "Nhập mật khẩu",
+      "remember": "Lưu thông tin đăng nhập",
+      "forgot": "Quên mật khẩu?",
+      "submit": "Đăng nhập",
+      "or": "Hoặc",
+      "register": "Đăng ký",
+      "error": {
+        "username_required": "Vui lòng nhập Tên đăng nhập",
+        "password_required": "Vui lòng nhập Mật khẩu",
+        "invalid_credentials": "Sai tên đăng nhập hoặc mật khẩu"
+      }
+    },
+    "register": {
+      "title": "Đăng ký",
+      "subtitle": "Tạo tài khoản mới để sử dụng hệ thống",
+      "email": "Email",
+      "emailPlaceholder": "Nhập địa chỉ email",
+      "phone": "Số điện thoại",
+      "phonePlaceholder": "Nhập số điện thoại",
+      "password": "Mật khẩu",
+      "passwordPlaceholder": "Nhập mật khẩu",
+      "confirm": "Nhập lại mật khẩu",
+      "confirmPlaceholder": "Nhập lại mật khẩu",
+      "agree": "Tôi đồng ý với Điều kiện & Điều khoản",
+      "next": "Đăng ký",
+      "cancel": "Hủy đăng ký",
+      "infoTitle": "Thông tin tài khoản",
+      "fullName": "Tên người sử dụng",
+      "fullNamePlaceholder": "Nhập họ và tên",
+      "orgName": "Tên đơn vị",
+      "orgNamePlaceholder": "Nhập tên đơn vị",
+      "orgAddress": "Địa chỉ đơn vị",
+      "orgAddressPlaceholder": "Nhập địa chỉ đơn vị",
+      "avatar": "Ảnh đại diện",
+      "avatarHint": "Chọn file JPG hoặc PNG, tối đa 2MB",
+      "back": "Quay lại",
+      "confirmBtn": "Xác nhận",
+      "successTitle": "Đăng ký thành công",
+      "successDesc": "Quay lại trang {{login}} để thực hiện đăng nhập. Tự động chuyển sau {{sec}} giây.",
+      "loginLink": "Đăng nhập",
+      "error": {
+        "email_required": "Vui lòng nhập Email",
+        "phone_required": "Vui lòng nhập Số điện thoại",
+        "password_required": "Vui lòng nhập Mật khẩu",
+        "confirm_required": "Vui lòng nhập lại Mật khẩu",
+        "password_mismatch": "Mật khẩu nhập lại không khớp",
+        "agree_required": "Vui lòng đồng ý với Điều kiện & Điều khoản",
+        "fullName_required": "Vui lòng nhập Tên người sử dụng",
+        "orgName_required": "Vui lòng nhập Tên đơn vị",
+        "orgAddress_required": "Vui lòng nhập Địa chỉ đơn vị",
+        "avatar_size": "Kích thước file không được vượt quá 2MB",
+        "avatar_type": "Chỉ chấp nhận file JPG hoặc PNG"
+      }
+    },
+    "forgot": {
+      "title": "Quên mật khẩu",
+      "desc": "Nhập email và số điện thoại đã đăng ký để nhận mã/đường dẫn đặt lại mật khẩu",
+      "email": "Email",
+      "emailPlaceholder": "Nhập địa chỉ email",
+      "phone": "Số điện thoại",
+      "phonePlaceholder": "Nhập số điện thoại",
+      "submit": "Gửi",
+      "back": "Quay lại trang Đăng nhập",
+      "success": "Yêu cầu đặt lại mật khẩu đã được gửi. Vui lòng kiểm tra email/SMS.",
+      "error": {
+        "email_required": "Vui lòng nhập Email",
+        "phone_required": "Vui lòng nhập Số điện thoại"
+      }
+    }
+  },
+  "home": {
+    "title": "Trang chủ",
+    "welcome": "Chào mừng bạn đến với hệ thống Ứng cứu cháy và an ninh"
+  }
+}
