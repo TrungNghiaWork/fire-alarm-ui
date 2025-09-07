@@ -1,10 +1,10 @@
 import React from 'react';
 import { Routes, Route, Navigate } from 'react-router-dom';
 import { ProtectedRoute } from '@/features/auth/ProtectedRoute';
-import { LoginPage } from '@/pages/LoginPage';
-import { RegisterPage } from '@/pages/RegisterPage';
-import { RegisterSuccessPage } from '@/pages/RegisterSuccessPage';
-import { HomePage } from '@/pages/HomePage';
+import { LoginPage } from '@/pages/auth/LoginPage';
+import { RegisterPage } from '@/pages/auth/RegisterPage';
+import { RegisterSuccessPage } from '@/pages/auth/RegisterSuccessPage';
+import { HomePage } from '@/pages/auth/HomePage';
 import { useAppSelector } from '@/app/hooks';
 
 export const AppRoutes: React.FC = () => {
